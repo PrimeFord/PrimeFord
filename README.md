@@ -3,10 +3,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=annonymousauthority&style=flat-square&color=blue" alt=""/>
   ![Profile Views](https://komarev.com/ghpvc/?username=primeford&color=c1c1c1)
-</div>
+</div> -->
 
 ---
 ### 🚀 You can connect with me on:
@@ -26,8 +26,7 @@
   - 👋 Hi, I am MuhammedFuad Bashar <br>
   - 👨🏾‍💻 I am a software developer. I write frontend mobile and web applications with Reactjs | Nextjs and Vitejs frameworks. <br>
   - 👨🏾‍💼 I have been writing codes for about 3years. <br>
-  - 📫 Reach me via email : wolabash@gmail.com, or twitter [@_talentseeker](https://www.twitter.com/_talentseeker) 
-  - 
+  - 📫 Reach me via email : wolabash@gmail.com.
 </div>
 
 ---
@@ -43,20 +42,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="80" height="80"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="80" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
 </div>
 
 ---
 🌱 I’m currently learning
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="80" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
+  
+<!--  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Redux" alt="Redux" width="80" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="80" height="80"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="80" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="80" height="80"/>&nbsp; -->
 </div>
 ---
 
@@ -64,7 +63,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeFord&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- [![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 🥂 Cheers!
 
