@@ -17,11 +17,11 @@
 
 ---
 ### Reach Me
-<div>
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
+<div align="cemter">
+  <a href="https://linkedin.com/in/muhammedfuad-bashar">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
+  <a href="https://twitter.com/BMuhammedfuad">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 
