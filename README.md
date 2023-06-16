@@ -16,7 +16,18 @@
 </div>
 
 ---
+### Reach Me
+<div>
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+  </a>
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter"/>
+  </a>
 
+</div>
+
+---
 ### 👨‍💻 About Me
 <div id="body" align="left">
   - 👋 Hi, I am MuhammedFuad Bashar <br>
