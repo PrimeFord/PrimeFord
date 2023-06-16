@@ -19,10 +19,10 @@
 ### Reach Me
 <div>
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/augustine-francis)">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
 
 </div>
