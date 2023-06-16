@@ -9,7 +9,7 @@
 
 ---
 ### 🚀 You can connect with me on:
-<div align="cemter">
+<div align="center">
   <a href="https://linkedin.com/in/muhammedfuad-bashar">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
