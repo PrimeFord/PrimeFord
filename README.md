@@ -14,7 +14,8 @@
   - 👋 Hi, I am MuhammedFuad Bashar <br>
   - 👨🏾‍💻 I am a software developer. I write frontend mobile and web applications with Reactjs | Nextjs and Vitejs frameworks. <br>
   - 👨🏾‍💼 I have been writing codes for about 2years. <br>
-  - 📫 Reach me via email : wolabash@gmail.com.
+  - 📫 Reach me via email :  <a href="mailto:wolabash@gmail.com">Mail</a>
+.
 </div>
 
 ---
@@ -26,7 +27,6 @@
   <a href="https://twitter.com/BMuhammedfuad">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-
 </div>
 
 ---
