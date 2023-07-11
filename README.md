@@ -5,7 +5,7 @@
 </div>
 <div align="center">
   <a href="https://primeboy.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-my_Portfolio-FBFBFB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
   </a>
 </div>
 <!-- <div align="center">
