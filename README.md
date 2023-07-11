@@ -2,6 +2,8 @@
 
 <div id="header" flex="column" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div>
   <a href="https://primeboy.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
   </a>
