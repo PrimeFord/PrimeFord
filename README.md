@@ -25,15 +25,14 @@
 
 ---
 ### 🚀 You can connect with me on
-<div>
-  <a href="https://linkedin.com/in/muhammedfuad-bashar">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+<p align="center">
+  <a href="[https://skillicons.dev](https://linkedin.com/in/muhammedfuad-bashar)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+  <a href="[https://skillicons.dev](https://twitter.com/BMuhammedfuad)">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://twitter.com/BMuhammedfuad">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</div>
-
+</p>
 ---
 
 ### 🛠️ Languages and Tools
