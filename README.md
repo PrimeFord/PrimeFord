@@ -26,13 +26,14 @@
 ---
 ### 🚀 You can connect with me on
 <p align="center">
-  <a href="[https://skillicons.dev](https://linkedin.com/in/muhammedfuad-bashar)">
+  <a href="https://linkedin.com/in/muhammedfuad-bashar)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
-  <a href="[https://skillicons.dev](https://twitter.com/BMuhammedfuad)">
+  <a href="https://twitter.com/BMuhammedfuad">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Languages and Tools
