@@ -37,6 +37,11 @@
 ---
 
 ### 🛠️ Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,redux,tailwind,nextjs,ts,vscode,git,github" />
+  </a>
+</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="80" height="80"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="80" height="80"/>&nbsp;
