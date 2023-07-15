@@ -56,8 +56,12 @@
 </div>
 
 ---
-🌱 I’m currently learning
-
+###🌱 I’m currently learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=node,sass,py,postgres,mongodb,mysql,django,aws" />
+  </a>
+</p>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="80" height="80"/>&nbsp;
   
@@ -74,6 +78,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeFord&theme=dark&background=000000)](https://git.io/streak-stats)
  [![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford)](https://github.com/primeford/github-readme-stats) 
+ ![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford&theme=dark&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 🥂 Cheers!
