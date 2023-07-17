@@ -8,9 +8,7 @@
       <img src="https://img.shields.io/badge/-my_Portfolio-FBFBFB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank">
   </a>
 </div>
-<div>
   [![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
-</div>
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=annonymousauthority&style=flat-square&color=blue" alt=""/>
   ![Profile Views](https://komarev.com/ghpvc/?username=primeford&color=c1c1c1)
