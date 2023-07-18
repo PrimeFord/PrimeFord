@@ -42,7 +42,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vite,react,redux,tailwind,nextjs,ts,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,vite,tailwind,nextjs,vscode,git,github,figma" />
   </a>
 </p>
 <!-- <div>
