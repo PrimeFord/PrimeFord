@@ -10,7 +10,7 @@
   
   [![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
 </div>
-<!-- <div align="cente">
+<!-- <div align="center">
 [![wakatm](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
 </div> -->
 <!-- <div align="center">
