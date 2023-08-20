@@ -11,7 +11,7 @@
   [![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
 </div>
 <!-- <div align="center">
-[![wakatime](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
+[![wakatimey](https://wakatime.com/badge/user/925cc6cf-7fb7-48df-8ac2-2329732577ed.svg)](https://wakatime.com/@925cc6cf-7fb7-48df-8ac2-2329732577ed)
 </div> -->
 <!-- <div align="centerr">
   <img src="https://komarev.com/ghpvc/?username=annonymousauthority&style=flat-square&color=blue" alt=""/>
