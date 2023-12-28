@@ -58,7 +58,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Reedux" alt="Redux" width="80" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="80" height="80"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="80" height="40"/>&nbsp;
-</div> -->
+</div>
+sass
+jquery
+-->
 
 ---
 ### 🌱 I’m currently learning
