@@ -60,14 +60,13 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="Nextjs" width="80" height="40"/>&nbsp;
 </div>
 sass
-jquery
 -->
 
 ---
 ### 🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,sass,py,postgres,mongodb,mysql,django,aws" />
+    <img src="https://skillicons.dev/icons?i=node,sass,py,postgres,mongodb,mysql,django,aws,jquery" />
   </a>
 </p>
 <!-- <div>
