@@ -46,6 +46,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,vite,tailwind,nextjs,vscode,git,github,figma" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,vite,tailwind,nextjs,vscode,git,github,figma" />
+  </a>
 </p>
 <!-- <div>
   <img src="https://github.com/devcons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="80" height="80"/>&nbsp;
