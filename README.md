@@ -46,6 +46,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vite,nextjs,vscode,git,github,figma" />
   </a>
