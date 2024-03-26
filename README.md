@@ -70,7 +70,7 @@ sass jquery
 ### 🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=node,py,postgres,mongodb,mysql,django,aws,jquery" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,mongodb,mysql,django,aws,jquery" />
   </a>
 </p>
 <!-- <div>
