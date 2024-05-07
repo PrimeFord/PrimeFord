@@ -23,7 +23,7 @@
 <div id="body" align="left">
   - 👋 Hi, I am MuhammedFuad Bashar <br>
   - 👨🏾‍💻 I am a software developer. I write frontend mobile and web applications with Reactjs | Nextjs and Vitejs frameworks. <br>
-  - 👨🏾‍💼 I have been writing codes for more than 2years. <br>
+  - 👨🏾‍💼 I have been writing codes up to 3 years. <br>
   - 📫 Reach me via email :  <a href="mailto:wolabash@gmail.com">Mail</a>
 .
 </div>
