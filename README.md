@@ -44,11 +44,11 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel,jquery,py,django,R" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel,jquery,py,django,r" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,nextjs,vscode,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vite,nextjs,vscode,git,github,figma,postman,flask,sqlite" />
   </a>
 </p>
 <!-- <div>
@@ -70,7 +70,7 @@ sass jquery
 ### 🌱 I’m currently learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,mysql,aws,graphql,flutter" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,postgres,mongodb,mysql,aws,graphql,flutter" />
   </a>
 </p>
 <!-- <div>
