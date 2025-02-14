@@ -44,7 +44,7 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel,jquery,py,django" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,sass,babel,jquery,py,django,R" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -90,7 +90,7 @@ sass jquery
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PrimeFord&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 ![PrimeFord's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeford&theme=dark&show_icons=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primeford&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🥂 Cheers!
 
